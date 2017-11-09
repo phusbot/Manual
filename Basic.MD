@@ -7,7 +7,7 @@ CloudGate普通规则可以直接导入使用,不需要任何额外的操作,非
 |规则名称|下载地址|
 |----|-----|
 |Surge|`https://async.be/Rule/Basic/Surge`|
-|Shadowrocket|`https://async.be/Rule/Basic/Shadowrocket`|
+|Shadowrocket|`https://raw.githubusercontent.com/phusbot/Manual/master/Shadowrocket.Conf`|
 |A.BIG.T|`https://async.be/Rule/Basic/A.BIG.T`|
 |Potatso|`https://async.be/Rule/Basic/Potatso`|
 |Wingy|`https://async.be/Rule/Basic/Wingy`|
