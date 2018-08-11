@@ -11,6 +11,7 @@ CloudGate Manual
 规则未来解决的问题：修复无法访问知乎的问题。删除免费空间提供的网址。删除无效的网址。
 
 规则地址 https://raw.githubusercontent.com/phusbot/Manual/master/Shadowrocket.Conf
+
 代理规则精简版地址 https://raw.githubusercontent.com/phusbot/Manual/master/Shadowrocket-lite.Conf
 
 [Telegram社群](https://t.me/joinchat/Eeks0Eh3DYd_ndSdcpMmyg)
