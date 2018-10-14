@@ -9,10 +9,12 @@ CloudGate Manual
 
 精简版基于上述修改的地方再精简代理规则，删掉多余（万年都用不上）的代理规则600余条，保留常用代理规则。
 
-规则未来解决的问题：修复无法访问知乎的问题。删除免费空间提供的网址。删除无效的网址。
+规则未来解决的问题：删除免费空间提供的网址。删除无效的网址。
 
-规则地址 https://raw.githubusercontent.com/phusbot/Manual/master/Shadowrocket.Conf
+全规则版条目过于杂乱，不常更新。
 
-代理规则精简版地址 https://raw.githubusercontent.com/phusbot/Manual/master/Shadowrocket-lite.Conf
+全规则地址 https://raw.githubusercontent.com/phusbot/Manual/master/Shadowrocket.Conf
+
+【推荐】代理规则精简版地址 https://raw.githubusercontent.com/phusbot/Manual/master/Shadowrocket-lite.Conf
 
 [Telegram社群](https://t.me/joinchat/Eeks0Eh3DYd_ndSdcpMmyg)
